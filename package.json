@@ -20,7 +20,6 @@
     },
     "dependencies": {
        "jsdom": "1.0.2",
-       "speech-rule-engine": "*",
        "yargs": "*",
        "MathJax": "https://github.com/mathjax/MathJax/tarball/mathjax-node"
     },
